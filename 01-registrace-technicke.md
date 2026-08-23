@@ -98,6 +98,11 @@ Vzhledem k povaze § 1 jako vymezení předmětu úpravy jde typicky o spor, zda
 
 Klíčové pro praxi registrace je odst. 15: **provozovatelem** silničního vozidla je osoba zapsaná v registru jako vlastník, **není-li** jako provozovatel zapsána osoba jiná. Jde o vyvratitelnou (registrací) domněnku shody vlastníka a provozovatele — pokud vlastník a provozovatel nejsou totožní (typicky u leasingu, fleetových vozidel, vozidel užívaných na základě jiného právního titulu), musí být provozovatel v registru zapsán zvlášť (viz § 6 odst. 4 písm. c), § 9). Odst. 12 definuje **nové vozidlo** jako dosud neregistrované a neprovozované vozidlo (s výjimkou zkušebního či manipulačního provozu) — tato definice je rozhodná pro odlišení postupu podle § 5–7 (nové vozidlo) od postupu u dovezených či dříve provozovaných vozidel. Odst. 4 a 16 definují **historické a sportovní vozidlo** jako vozidla se zvláštním registračním režimem mimo běžný registr silničních vozidel.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 3073/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC26E6A7DA9CF6ADC125873F00184445?openDocument) — 27. 5. 2021, kat. A
+  > „Podílel-li se na průběhu nehodového děje a rozsahu vzniklé škody při střetu vlaku s nákladní automobilovou soupravou významným způsobem též návěs, pak škodu vyvolala nejen zvláštní povaha provozu tahače, nýbrž i zvláštní povaha provozu návěsu v takovém případě není důvod omezit výši pojistného plnění z odpovědnosti za újmu vyvolanou provozem motorového vozidla jen maximální výší pojistného plnění stanoveného v pojistné smlouvě týkající se tahače"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Vozidlo je pořízeno na leasing; leasingová společnost je v registru zapsána jako vlastník, nájemce vozidlo fakticky užívá a je odpovědný za technický stav a přestupky. Vznikne spor, kdo je „provozovatelem" pro účely doručování a odpovědnosti za přestupek podle jiných právních předpisů.
